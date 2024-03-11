@@ -127,6 +127,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+text-summerization
 
 # Spyder project settings
 .spyderproject
